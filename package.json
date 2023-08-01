@@ -1,0 +1,14 @@
+{
+  "name": "utilizing_packages_effectively",
+  "version": "1.0.0",
+  "description": "this is a project for task utilizing packages effectively",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Kaleabe",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
